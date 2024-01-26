@@ -1,0 +1,3 @@
+The rules are simple:
+ - The player with the White King starts, and after each step, the player deletes a tile.
+ - The player wins the game if the other can't move anymore.

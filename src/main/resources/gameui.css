@@ -1,0 +1,33 @@
+.square {
+    -fx-border-style: solid;
+    -fx-align: center;
+}
+
+.deletedSquare {
+    -fx-alignment: center;
+    -fx-font-size: 50px;
+}
+
+.selected {
+    -fx-alignment: center;
+    -fx-font-size: 50px;
+}
+
+.otherPiece {
+    -fx-alignment: center;
+    -fx-font-size: 50px;
+}
+
+.selectable {
+    -fx-border-width: 2;
+    -fx-background-color: #cbffc9;
+    -fx-alignment: center;
+    -fx-font-size: 50px;
+}
+
+.losingPiece {
+    -fx-border-width: 2;
+    -fx-background-color: #ff8080;
+    -fx-alignment: center;
+    -fx-font-size: 50px;
+}
